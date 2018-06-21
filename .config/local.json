@@ -2,10 +2,10 @@
   "pm-20": [
     {
       "credentials": {
-      	"instance_id": "e6958da4-bdf0-4ed5-a269-8d0ba84ce042",
-      	"password": "56eab33b-a1b7-471b-b596-5725983a0761",
-      	"url": "https://ibm-watson-ml.mybluemix.net",
-      	"username": "2e61ce09-ff85-48f0-b8c5-8e960fdd31d6"
+        "username": "50afff73-307f-4e8d-9b9c-02e76019dda0",
+        "password": "ca0656e5-684d-443c-9d00-ab425eb72991",
+        "instance_id": "4d41339d-0704-4bd4-b099-05790a58653e",
+        "url": "https://ibm-watson-ml.mybluemix.net"
       }
     }
   ]
